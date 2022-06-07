@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nero
 - 👀 I’m interested in AI, Blockchain, Mobile App
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 Contact me: ngocnsn1994@gmail.com
 
 <!---
 SNgoc/SNgoc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
