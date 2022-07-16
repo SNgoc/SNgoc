@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Nero
 - 👀 I’m interested in AI, Blockchain, Mobile App
 - 💞️ I’m looking to collaborate on ...
+- 🔯 My Projects: https://github.com/SNgoc?tab=projects&type=classic
 - 📫 Contact me: ngocnsn1994@gmail.com
 
 <!---
